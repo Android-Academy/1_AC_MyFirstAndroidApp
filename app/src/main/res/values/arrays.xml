@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <integer-array name="main_activity_photos">
+
+        <item>@drawable/ic_list</item>
+        <item>@drawable/ic_tic_tac_toe</item>
+        <item>@drawable/ic_calculator</item>
+        <item>@drawable/ic_recylerveiw</item>
+        <item>@drawable/ic_baseline</item>
+        <item>@drawable/ic_fragment</item>
+        <item>@drawable/ic_view_pager</item>
+        <item>@drawable/ic_photo_gallery</item>
+        <item>@drawable/ic_database_icon</item>
+    </integer-array>
+
+</resources>

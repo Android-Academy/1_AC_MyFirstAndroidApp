@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/listview_id"
+        android:icon="@drawable/ic_list"
+        android:title="@string/title_activity_listview" />
+
+    <item
+        android:id="@+id/tictactoe_id"
+        android:icon="@drawable/ic_tic_tac_toe"
+        android:title="@string/title_activity_tictactoe" />
+
+    <item
+        android:id="@+id/calculator_id"
+        android:icon="@drawable/ic_calculator"
+        android:title="@string/title_activity_calculator" />
+
+    <item
+        android:id="@+id/recyclerview_id"
+        android:icon="@drawable/ic_recylerveiw"
+        android:title="@string/title_activity_recyclerview" />
+    <item
+        android:id="@+id/input_text_id"
+        android:icon="@drawable/ic_baseline"
+        android:title="@string/title_activity_input_text" />
+    <item
+        android:id="@+id/fragment_id"
+        android:icon="@drawable/ic_fragment"
+        android:title="@string/title_activity_fragment" />
+
+    <item
+        android:id="@+id/view_pager_id"
+        android:icon="@drawable/ic_view_pager"
+        android:title="@string/title_activity_view_pager" />
+
+    <item
+        android:id="@+id/view_pager_gallery_id"
+        android:icon="@drawable/ic_photo_gallery"
+        android:title="@string/title_activity_viewpagerforViews" />
+
+    <item
+        android:id="@+id/data_base_id"
+        android:icon="@drawable/ic_database_icon"
+        android:title="@string/title_activity_database_tutorial" />
+    <item
+        android:id="@+id/about_id"
+        android:icon="@drawable/ic_info"
+        android:title="@string/title_activity_About" />
+
+</menu>
